@@ -8,4 +8,3 @@ public class DBConnection {
         return DriverManager.getConnection(url, user, pass);
     }
 }
-
