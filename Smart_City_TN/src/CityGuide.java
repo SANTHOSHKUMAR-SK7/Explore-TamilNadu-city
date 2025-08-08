@@ -33,8 +33,6 @@ public class CityGuide {
                         " | " + rs.getString("address") +
                         " | " + rs.getString("phone"));
             }
-        } catch (Exception e) {
-            System.out.println("Error fetching restaurants: " + e.getMessage());
         }
     }
 
@@ -55,3 +53,4 @@ public class CityGuide {
         }
     }
 }
+
