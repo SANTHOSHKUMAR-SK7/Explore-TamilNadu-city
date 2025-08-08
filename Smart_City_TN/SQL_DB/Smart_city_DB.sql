@@ -1,4 +1,3 @@
-
 CREATE DATABASE smartcity_tn;
 USE smartcity_tn;
 
